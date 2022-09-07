@@ -1,6 +1,18 @@
+.nav-link{
+    font-family: 'Germania One';
+    font-size: 22px;
+}
 .navbar-brand{
     font-family: 'Bungee Inline';
 }
 .carousel-item img{
     height: 550px;
+}
+.worker{
+    margin-top: 50px;
+}
+.card-header{
+    font-family: 'Dela Gothic One';
+    font-size: 22px;
+    font-weight: bold;
 }
