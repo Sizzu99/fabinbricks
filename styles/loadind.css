@@ -1,0 +1,21 @@
+.agun-workers{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 50px;
+    color: rgb(66, 63, 66);
+   margin-bottom: 40px;
+}
+.card-header{
+    font-family: 'Leckerli One';
+    font-size: 22px;
+    font-weight: bold;
+}
+.card-title{
+    font-family: 'Leckerli One';
+    font-size: 22px;
+    font-weight: bold;
+   
+}
+.workers-list{
+    margin-top: 40px;
+}
